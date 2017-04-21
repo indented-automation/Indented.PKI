@@ -1,1 +1,0 @@
-Import-LocalizedData -BindingVariable LocalizedData -FileName Indented.PKI.resource.psd1
